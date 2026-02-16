@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hola!👋
 
-<!--
-**JhonFPM/JhonFPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Jhon Freddy Patiño,
 
-Here are some ideas to get you started:
+🎓 Estudiante de Ingeniería de Sistemas y Computación | Universidad Nacional de Colombia
+💻 Apasionado por estructuras de datos y Java  
+🚀 Construyendo proyectos para fortalecer mis fundamentos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Áreas de interés
+
+- 📚 Modelado relacional y diseño de bases de datos
+- 🗂️ Álgebra relacional y normalización
+- 🔗 Teoría de grafos (conectividad, árboles, recorridos, propiedades estructurales)
+- 📈 Fundamentos matemáticos de la computación
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- SQL
+- Java
+- Git & GitHub
+- PostgreSQL
+
+---
+
+## 🚀 Actualmente
+
+Fortaleciendo mis bases en:
+- Diseño lógico de bases de datos
+- Estructuras formales aplicadas a la ingeniería
+
+---
+
+_"Hard is the way, soft is the future."_
