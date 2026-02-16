@@ -3,6 +3,7 @@
 Soy Jhon Freddy Patiño,
 
 🎓 Estudiante de Ingeniería de Sistemas y Computación | Universidad Nacional de Colombia
+
 🚀 Construyendo proyectos para fortalecer mis fundamentos  
 
 ---
